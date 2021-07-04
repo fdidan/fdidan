@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fdidan
-- 👀 I’m interested in Web Developing
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me by email fdidan09@gmail.com
