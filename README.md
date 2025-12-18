@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Alfan Didan. You can call me Didan
-- 👀 I’m interested in Web Development and Mobile Apps Development
-- 🌱 I’m currently learning Javascript, Java, and Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cybersecurity and Mobile Apps Development
 - 📫 You can contact me by email fdidan09@gmail.com
 
 <!---
